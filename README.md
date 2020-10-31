@@ -11,4 +11,5 @@ dotnet run --project ./BlazorFarm/BlazorFarm.csproj
 ## Gerar a complicação para produção passando o caminho do do arquivo .csproj -o para criar pasta Publish
 dotnet publish -c Release ./BlazorFarm/BlazorFarm.csproj -o Publish
 ```
-
+### Print projeto
+![print projeto](/Capture.PNG)
