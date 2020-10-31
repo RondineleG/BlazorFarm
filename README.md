@@ -13,3 +13,6 @@ dotnet publish -c Release ./BlazorFarm/BlazorFarm.csproj -o Publish
 ```
 ### Print projeto
 ![print projeto](/Capture.PNG)
+
+### Referencia
+https://blog.jetbrains.com/dotnet/2020/10/22/building-a-blazor-farm-animal-soundboard/
